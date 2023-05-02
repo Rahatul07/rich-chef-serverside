@@ -11,6 +11,7 @@
     "recipes": [
       {
         "recipe_name": "Grilled Steak with Chimichurri Sauce",
+        "recipe_img": "https://i.ibb.co/xXccsmC/01.png",
         "ingredients": [
           "flank steak",
           "garlic",
@@ -23,6 +24,7 @@
       },
       {
         "recipe_name": "Shrimp Scampi",
+        "recipe_img": "https://i.ibb.co/wz7XQ35/02.png",
         "ingredients": [
           "shrimp",
           "garlic",
@@ -35,6 +37,7 @@
       },
       {
         "recipe_name": "Ratatouille",
+        "recipe_img": "https://i.ibb.co/7jV86sz/03.png",
         "ingredients": [
           "eggplant",
           "zucchini",
@@ -49,48 +52,233 @@
   },
   {
     "id": 2,
-    "img_url": "https://example.com/chef1_avatar.jpg",
-    "name": "Alexa Rodriguez",
-    "short_bio": "Chef Alexa is a James Beard Award winner with over 15 years of experience in the culinary industry.",
-    "likes": 7500,
-    "numbers_of_recipes": 200,
-    "year_of_experience": 15,
-    "favorite": true,
+    "img_url": "https://example.com/chef2_avatar.jpg",
+    "name": "Mario Russo",
+    "short_bio": "Chef Mario is a Michelin-starred chef known for his innovative Italian cuisine.",
+    "likes": 12000,
+    "numbers_of_recipes": 150,
+    "year_of_experience": 20,
+    "favorite": false,
     "recipes": [
       {
-        "recipe_name": "Grilled Steak with Chimichurri Sauce",
+        "recipe_name": "Homemade Pasta with Tomato Sauce",
+        "recipe_img": "https://i.ibb.co/D9MDsjb/04.png",
+        "ingredients": ["flour", "eggs", "olive oil", "tomatoes", "garlic"],
+        "cooking_method": "Make a well in the flour and add eggs and olive oil. Mix until it forms a dough. Knead the dough and let it rest. In a saucepan, sauté garlic in olive oil. Add chopped tomatoes and cook until the sauce thickens. Roll out the pasta dough and cut into desired shapes. Cook the pasta in salted boiling water for a few minutes. Serve with the tomato sauce.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Lobster Risotto",
+        "recipe_img": "https://i.ibb.co/WnyH8Dd/05.png",
         "ingredients": [
-          "flank steak",
-          "garlic",
-          "parsley",
-          "oregano",
-          "red wine vinegar"
+          "lobster",
+          "arborio rice",
+          "white wine",
+          "onion",
+          "parmesan cheese"
         ],
-        "cooking_method": "Preheat grill to high heat. Season the steak with salt and pepper. Grill the steak for 4-5 minutes per side for medium-rare. Let the steak rest for 5 minutes before slicing. For the chimichurri sauce, blend garlic, parsley, oregano, red wine vinegar, and olive oil in a food processor. Serve the steak with chimichurri sauce.",
+        "cooking_method": "In a saucepan, cook onion in olive oil until translucent. Add arborio rice and toast for a few minutes. Add white wine and stir until it evaporates. Gradually add hot broth and stir until the rice is cooked. In another saucepan, cook lobster in butter. Add the lobster meat to the risotto and stir. Top with grated parmesan cheese.",
         "rating": 4.9
       },
       {
-        "recipe_name": "Shrimp Scampi",
+        "recipe_name": "Tiramisu",
+        "recipe_img": "https://i.ibb.co/tZF6BbM/06.png",
+        "ingredients": [
+          "mascarpone cheese",
+          "ladyfingers",
+          "coffee",
+          "cocoa powder",
+          "eggs"
+        ],
+        "cooking_method": "Mix mascarpone cheese, egg yolks, and sugar until creamy. Beat egg whites until stiff peaks form. Fold the egg whites into the mascarpone mixture. Dip ladyfingers into coffee and layer them in a dish. Spread the mascarpone mixture on top. Repeat layers. Chill for a few hours. Sprinkle with cocoa powder before serving.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img_url": "https://example.com/chef3_avatar.jpg",
+    "name": "Hiroshi Tanahashi",
+    "short_bio": "Chef Hiroshi specializes in traditional Japanese cuisine and has trained in Tokyo's most prestigious restaurants.",
+    "likes": 12000,
+    "numbers_of_recipes": 100,
+    "year_of_experience": 20,
+    "favorite": true,
+    "recipes": [
+      {
+        "recipe_name": "Tempura Shrimp",
+        "recipe_img": "https://i.ibb.co/bN7Cgd5/07.png",
         "ingredients": [
           "shrimp",
-          "garlic",
-          "lemon juice",
-          "white wine",
-          "butter"
+          "flour",
+          "cornstarch",
+          "ice water",
+          "vegetable oil"
         ],
-        "cooking_method": "Cook pasta in salted water until al dente. In a skillet, sauté garlic in butter until fragrant. Add shrimp and cook until pink. Add lemon juice and white wine. Simmer for a few minutes until the sauce thickens. Toss with cooked pasta and serve.",
+        "cooking_method": "Clean and devein the shrimp, leaving the tail on. In a mixing bowl, whisk together flour, cornstarch, and ice water until just combined (the batter should still be lumpy). Dip the shrimp into the batter and fry in 350°F vegetable oil until golden brown. Serve with tempura dipping sauce and grated daikon radish.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Sushi Rolls",
+        "recipe_img": "https://i.ibb.co/WnnYpYQ/08.png",
+        "ingredients": [
+          "sushi rice",
+          "nori sheets",
+          "raw fish",
+          "avocado",
+          "cucumber"
+        ],
+        "cooking_method": "Cook sushi rice according to package instructions. Place a nori sheet on a bamboo sushi mat. Spread a thin layer of rice on the nori sheet, leaving a 1-inch border at the top. Add slices of raw fish, avocado, and cucumber. Roll the sushi tightly, using the mat to help. Cut the sushi into slices and serve with soy sauce and wasabi.",
         "rating": 4.7
       },
       {
-        "recipe_name": "Ratatouille",
+        "recipe_name": "Miso Soup",
+        "recipe_img": "https://i.ibb.co/pdyvZTM/09.png",
         "ingredients": [
-          "eggplant",
-          "zucchini",
-          "red bell pepper",
-          "onion",
-          "garlic"
+          "dashi",
+          "miso paste",
+          "tofu",
+          "green onions",
+          "seaweed"
         ],
-        "cooking_method": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into rounds. Thinly slice the onion. In a baking dish, arrange the vegetables in a spiral pattern. Top with minced garlic and drizzle with olive oil. Bake for 45-50 minutes until the vegetables are tender. Serve hot or at room temperature.",
+        "cooking_method": "In a pot, bring dashi to a simmer. In a small bowl, mix miso paste with a ladleful of dashi until smooth. Add the miso mixture to the pot and stir to combine. Add cubed tofu and sliced green onions. Serve hot, garnished with seaweed.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img_url": "https://example.com/chef4_avatar.jpg",
+    "name": "John Smith",
+    "short_bio": "Chef John is a classically trained French chef with over 25 years of experience in fine dining restaurants.",
+    "likes": 6500,
+    "numbers_of_recipes": 150,
+    "year_of_experience": 25,
+    "favorite": false,
+    "recipes": [
+      {
+        "recipe_name": "Coq Au Vin",
+        "recipe_img": "https://i.ibb.co/TKwx5xD/12.png",
+        "ingredients": [
+          "chicken",
+          "bacon",
+          "red wine",
+          "pearl onions",
+          "mushrooms"
+        ],
+        "cooking_method": "In a dutch oven, cook bacon over medium heat until crisp. Remove with a slotted spoon and set aside. Season chicken with salt and pepper and brown in bacon fat. Remove chicken and set aside. Add pearl onions and mushrooms and cook until brown. Add red wine and chicken broth. Add chicken and bacon back to the pot. Simmer for an hour. Serve with mashed potatoes.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Beef Wellington",
+        "recipe_img": "https://i.ibb.co/vhFzLCx/11.png",
+        "ingredients": [
+          "beef tenderloin",
+          "mushroom duxelles",
+          "prosciutto",
+          "puff pastry",
+          "egg wash"
+        ],
+        "cooking_method": "Season beef tenderloin with salt and pepper. Sear in a hot pan with oil until brown. Spread mushroom duxelles over prosciutto. Wrap beef in prosciutto-mushroom mixture. Cover in puff pastry, brush with egg wash, and bake at 400°F for 30 minutes. Let rest for 10 minutes before slicing.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Chocolate Souffle",
+        "recipe_img": "https://i.ibb.co/TKwx5xD/12.png",
+        "ingredients": [
+          "butter",
+          "sugar",
+          "flour",
+          "milk",
+          "egg yolks",
+          "egg whites",
+          "chocolate"
+        ],
+        "cooking_method": "In a saucepan, melt butter over low heat. Stir in sugar, flour, and milk. Cook for 2-3 minutes until thickened. Remove from heat and whisk in egg yolks and chocolate. In a separate bowl, beat egg whites until stiff peaks form. Fold egg whites into chocolate mixture. Pour into greased souffle dish and bake at 375°F for 25-30 minutes until puffed and set.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img_url": "https://example.com/chef5_avatar.jpg",
+    "name": "Giovanni Rossi",
+    "short_bio": "Chef Giovanni is a Michelin-starred Italian chef with a passion for simple yet refined cuisine.",
+    "likes": 8500,
+    "numbers_of_recipes": 150,
+    "year_of_experience": 18,
+    "favorite": false,
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_img": "https://i.ibb.co/chv8nzG/13.png",
+        "ingredients": [
+          "spaghetti",
+          "guanciale",
+          "pecorino romano",
+          "eggs",
+          "black pepper"
+        ],
+        "cooking_method": "Cook spaghetti in salted water until al dente. In a pan, cook guanciale until crispy. In a bowl, whisk together eggs, pecorino romano, and black pepper. Drain spaghetti and add it to the pan with guanciale. Turn off the heat and add the egg mixture, stirring until the eggs are cooked but still creamy. Serve immediately.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "recipe_img": "https://i.ibb.co/jTWwR4v/14.png",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "basil",
+          "olive oil"
+        ],
+        "cooking_method": "Preheat oven to 450°F. Roll out pizza dough and top with tomato sauce, mozzarella cheese, and torn basil leaves. Drizzle with olive oil. Bake for 12-15 minutes until the crust is golden brown and the cheese is bubbly.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Osso Buco",
+        "recipe_img": "https://i.ibb.co/JtJPFZR/15.png",
+        "ingredients": ["veal shanks", "carrots", "celery", "onion", "garlic"],
+        "cooking_method": "Preheat oven to 350°F. In a Dutch oven, brown the veal shanks on all sides. Remove the shanks and sauté diced carrots, celery, onion, and garlic until soft. Return the shanks to the pot and add enough chicken broth to cover. Bring to a simmer, cover, and bake in the oven for 2-3 hours until the meat is tender. Serve with gremolata.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img_url": "https://example.com/chef5_avatar.jpg",
+    "name": "Nadia Hussain",
+    "short_bio": "Nadia is a renowned pastry chef and cookbook author, known for her elegant and inventive desserts.",
+    "likes": 9000,
+    "numbers_of_recipes": 75,
+    "year_of_experience": 12,
+    "favorite": true,
+    "recipes": [
+      {
+        "recipe_name": "Chocolate Truffle Cake",
+        "recipe_img": "https://i.ibb.co/Z2FhMtv/16.png",
+        "ingredients": ["dark chocolate", "butter", "sugar", "eggs", "flour"],
+        "cooking_method": "Melt the chocolate and butter together in a double boiler. Whisk the eggs and sugar together until light and fluffy. Fold in the flour, then the melted chocolate mixture. Pour into a greased and floured cake pan. Bake for 25-30 minutes at 350°F. Let the cake cool completely before topping with ganache and truffles.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Lemon Tart",
+        "recipe_img": "https://i.ibb.co/g4qxbTv/17.png",
+        "ingredients": ["lemons", "butter", "sugar", "eggs", "flour"],
+        "cooking_method": "In a mixing bowl, cream the butter and sugar together until light and fluffy. Add the eggs, one at a time, whisking well after each addition. Mix in the flour and lemon juice. Pour the filling into a pre-baked tart shell. Bake for 25-30 minutes at 350°F. Let the tart cool before serving.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Macarons",
+        "recipe_img": "https://i.ibb.co/2KT4mxV/18.png",
+        "ingredients": [
+          "almond flour",
+          "powdered sugar",
+          "egg whites",
+          "sugar",
+          "food coloring"
+        ],
+        "cooking_method": "In a mixing bowl, whisk together the almond flour and powdered sugar. In a separate bowl, whisk the egg whites until stiff peaks form. Gradually add the sugar and food coloring. Fold the egg whites into the almond mixture until just combined. Pipe the batter onto a lined baking sheet. Let the macarons rest for 30 minutes before baking at 300°F for 15-20 minutes. Let the macarons cool before filling.",
         "rating": 4.4
       }
     ]
