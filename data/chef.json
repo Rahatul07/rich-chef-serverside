@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img_url": "https://example.com/chef1_avatar.jpg",
+    "img_url": "https://i.ibb.co/0jztgRF/pic-1.png",
     "name": "Alexa Rodriguez",
     "short_bio": "Chef Alexa is a James Beard Award winner with over 15 years of experience in the culinary industry.",
     "likes": 7500,
@@ -52,7 +52,7 @@
   },
   {
     "id": 2,
-    "img_url": "https://example.com/chef2_avatar.jpg",
+    "img_url": "https://i.ibb.co/cQ6fMMG/pic-2.png",
     "name": "Mario Russo",
     "short_bio": "Chef Mario is a Michelin-starred chef known for his innovative Italian cuisine.",
     "likes": 12000,
@@ -97,7 +97,7 @@
   },
   {
     "id": 3,
-    "img_url": "https://example.com/chef3_avatar.jpg",
+    "img_url": "https://i.ibb.co/HxgcnCb/pic-3.png",
     "name": "Hiroshi Tanahashi",
     "short_bio": "Chef Hiroshi specializes in traditional Japanese cuisine and has trained in Tokyo's most prestigious restaurants.",
     "likes": 12000,
@@ -148,7 +148,7 @@
   },
   {
     "id": 4,
-    "img_url": "https://example.com/chef4_avatar.jpg",
+    "img_url": "https://i.ibb.co/yPhS1dc/pic-4.png",
     "name": "John Smith",
     "short_bio": "Chef John is a classically trained French chef with over 25 years of experience in fine dining restaurants.",
     "likes": 6500,
@@ -201,7 +201,7 @@
   },
   {
     "id": 5,
-    "img_url": "https://example.com/chef5_avatar.jpg",
+    "img_url": "https://i.ibb.co/k0jV1w0/pic-5.png",
     "name": "Giovanni Rossi",
     "short_bio": "Chef Giovanni is a Michelin-starred Italian chef with a passion for simple yet refined cuisine.",
     "likes": 8500,
@@ -246,7 +246,7 @@
   },
   {
     "id": 6,
-    "img_url": "https://example.com/chef5_avatar.jpg",
+    "img_url": "https://i.ibb.co/vmQhRhw/pic-6.png",
     "name": "Nadia Hussain",
     "short_bio": "Nadia is a renowned pastry chef and cookbook author, known for her elegant and inventive desserts.",
     "likes": 9000,
