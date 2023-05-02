@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "img_url": "https://example.com/chef1_avatar.jpg",
+    "name": "Alexa Rodriguez",
+    "short_bio": "Chef Alexa is a James Beard Award winner with over 15 years of experience in the culinary industry.",
+    "likes": 7500,
+    "numbers_of_recipes": 200,
+    "year_of_experience": 15,
+    "favorite": true,
+    "recipes": [
+      {
+        "recipe_name": "Grilled Steak with Chimichurri Sauce",
+        "ingredients": [
+          "flank steak",
+          "garlic",
+          "parsley",
+          "oregano",
+          "red wine vinegar"
+        ],
+        "cooking_method": "Preheat grill to high heat. Season the steak with salt and pepper. Grill the steak for 4-5 minutes per side for medium-rare. Let the steak rest for 5 minutes before slicing. For the chimichurri sauce, blend garlic, parsley, oregano, red wine vinegar, and olive oil in a food processor. Serve the steak with chimichurri sauce.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Shrimp Scampi",
+        "ingredients": [
+          "shrimp",
+          "garlic",
+          "lemon juice",
+          "white wine",
+          "butter"
+        ],
+        "cooking_method": "Cook pasta in salted water until al dente. In a skillet, sauté garlic in butter until fragrant. Add shrimp and cook until pink. Add lemon juice and white wine. Simmer for a few minutes until the sauce thickens. Toss with cooked pasta and serve.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Ratatouille",
+        "ingredients": [
+          "eggplant",
+          "zucchini",
+          "red bell pepper",
+          "onion",
+          "garlic"
+        ],
+        "cooking_method": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into rounds. Thinly slice the onion. In a baking dish, arrange the vegetables in a spiral pattern. Top with minced garlic and drizzle with olive oil. Bake for 45-50 minutes until the vegetables are tender. Serve hot or at room temperature.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img_url": "https://example.com/chef1_avatar.jpg",
+    "name": "Alexa Rodriguez",
+    "short_bio": "Chef Alexa is a James Beard Award winner with over 15 years of experience in the culinary industry.",
+    "likes": 7500,
+    "numbers_of_recipes": 200,
+    "year_of_experience": 15,
+    "favorite": true,
+    "recipes": [
+      {
+        "recipe_name": "Grilled Steak with Chimichurri Sauce",
+        "ingredients": [
+          "flank steak",
+          "garlic",
+          "parsley",
+          "oregano",
+          "red wine vinegar"
+        ],
+        "cooking_method": "Preheat grill to high heat. Season the steak with salt and pepper. Grill the steak for 4-5 minutes per side for medium-rare. Let the steak rest for 5 minutes before slicing. For the chimichurri sauce, blend garlic, parsley, oregano, red wine vinegar, and olive oil in a food processor. Serve the steak with chimichurri sauce.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Shrimp Scampi",
+        "ingredients": [
+          "shrimp",
+          "garlic",
+          "lemon juice",
+          "white wine",
+          "butter"
+        ],
+        "cooking_method": "Cook pasta in salted water until al dente. In a skillet, sauté garlic in butter until fragrant. Add shrimp and cook until pink. Add lemon juice and white wine. Simmer for a few minutes until the sauce thickens. Toss with cooked pasta and serve.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Ratatouille",
+        "ingredients": [
+          "eggplant",
+          "zucchini",
+          "red bell pepper",
+          "onion",
+          "garlic"
+        ],
+        "cooking_method": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into rounds. Thinly slice the onion. In a baking dish, arrange the vegetables in a spiral pattern. Top with minced garlic and drizzle with olive oil. Bake for 45-50 minutes until the vegetables are tender. Serve hot or at room temperature.",
+        "rating": 4.4
+      }
+    ]
+  }
+]
