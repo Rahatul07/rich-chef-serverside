@@ -57,7 +57,7 @@
     "short_bio": "Chef Mario is a Michelin-starred chef known for his innovative Italian cuisine.",
     "likes": 12000,
     "numbers_of_recipes": 150,
-    "year_of_experience": 20,
+    "year_of_experience": 12,
     "favorite": false,
     "recipes": [
       {
@@ -102,7 +102,7 @@
     "short_bio": "Chef Hiroshi specializes in traditional Japanese cuisine and has trained in Tokyo's most prestigious restaurants.",
     "likes": 12000,
     "numbers_of_recipes": 100,
-    "year_of_experience": 20,
+    "year_of_experience": 9,
     "favorite": true,
     "recipes": [
       {
@@ -153,12 +153,12 @@
     "short_bio": "Chef John is a classically trained French chef with over 25 years of experience in fine dining restaurants.",
     "likes": 6500,
     "numbers_of_recipes": 150,
-    "year_of_experience": 25,
+    "year_of_experience": 15,
     "favorite": false,
     "recipes": [
       {
         "recipe_name": "Coq Au Vin",
-        "recipe_img": "https://i.ibb.co/TKwx5xD/12.png",
+        "recipe_img": "https://i.ibb.co/0BqQF5f/10.png",
         "ingredients": [
           "chicken",
           "bacon",
@@ -206,7 +206,7 @@
     "short_bio": "Chef Giovanni is a Michelin-starred Italian chef with a passion for simple yet refined cuisine.",
     "likes": 8500,
     "numbers_of_recipes": 150,
-    "year_of_experience": 18,
+    "year_of_experience": 13,
     "favorite": false,
     "recipes": [
       {
@@ -248,7 +248,7 @@
     "id": 6,
     "img_url": "https://i.ibb.co/vmQhRhw/pic-6.png",
     "name": "Michel Alex",
-    "short_bio": "Nadia is a renowned pastry chef and cookbook author, known for her elegant and inventive desserts.",
+    "short_bio": "Michel Alex is a renowned pastry chef and cookbook author, known for her elegant and inventive desserts.",
     "likes": 9000,
     "numbers_of_recipes": 75,
     "year_of_experience": 12,
